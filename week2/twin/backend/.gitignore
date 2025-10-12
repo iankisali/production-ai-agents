@@ -1,0 +1,5 @@
+.env
+lambda-deployment.zip
+lambda-package/
+__pycache*
+uv.lock
